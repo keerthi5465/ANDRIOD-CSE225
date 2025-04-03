@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="customeEditText" >
+        <attr name="boardColour" format="color" />
+        <attr name="boardWidth" format="dimension"/>
+    </declare-styleable>
+    </resources>

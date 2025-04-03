@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Andriodsem2</string>
+    <string name="rate_my_app">Rate My App</string>
+    <string name="showing_progress">Showing Progress</string>
+    <string name="progressbar">ProgressBar</string>
+    <string name="toolbar">Toolbar</string>
+    <string name="rattingbar">RattingBar</string>
+    <string name="customtost">CustomTost</string>
+    <string name="custom_toast">Custom Toast</string>
+    <string name="showing_custom_toast">Showing customtoast</string>
+</resources>
