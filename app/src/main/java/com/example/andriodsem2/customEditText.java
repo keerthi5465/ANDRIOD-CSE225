@@ -1,5 +1,13 @@
 package com.example.andriodsem2;
 
-public class customEditText {
+import kotlin.jvm.JvmOverloads;
+
+public class customEditText @JvmOverloads
+constructor(
+        context: Context,
+        attrs: AttributeSet? = null,
+        defStyleAttr: Int = andriod.R.attr.editTextStyle)
+        {
+
 
 }
